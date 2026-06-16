@@ -4,7 +4,8 @@ views:
     filters:
       and:
         - file.folder == "Obsidian/02 - REFERENCE NOTES"
-    order: []
+    order:
+      - status
     sort: []
     image: note.capa
     cardSize: 240

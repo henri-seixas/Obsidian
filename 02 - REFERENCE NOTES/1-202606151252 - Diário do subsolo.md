@@ -4,6 +4,7 @@ tags:
   - nota-referencia
 tema: "[[1 - LITERATURA]]"
 capa: "[[Diário do subsolo.jpg]]"
+status: 🟢​​​Lido
 ---
 # REFERENCIA
 **Diário do subsolo**. [s.l.]: Editora Martin Claret, 2021.

@@ -4,6 +4,7 @@ tags:
   - nota-referencia
 tema: "[[1 - LITERATURA]]"
 capa: "[[O retrato de Dorian Gray.jpg]]"
+status: 🟢​​​Lido
 ---
 # REFERENCIA
 **O retrato de Dorian Gray**. [s.l.]: Penguin-Companhia das Letras, 2022.

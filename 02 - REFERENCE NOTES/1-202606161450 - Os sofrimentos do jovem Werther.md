@@ -4,6 +4,7 @@ tags:
   - nota-referencia
 tema: "[[1 - LITERATURA]]"
 capa: "[[Os sofrimentos do jovem Werther.jpg]]"
+status: 🟡Lendo
 ---
 # REFERENCIA
 
