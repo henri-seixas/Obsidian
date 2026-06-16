@@ -3,6 +3,6 @@ id:
 tags:
   - nota-indice
 ---
-# REFERENCIA
+# REFERENCIAS
 
 # NOTAS RELACIONADAS
