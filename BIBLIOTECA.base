@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Tabela
+    filters:
+      and:
+        - file.folder == "Obsidian/02 - REFERENCE NOTES"
+    order: []
+    image: note.capa
+    cardSize: 220
+    imageAspectRatio: 1.7
