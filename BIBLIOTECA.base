@@ -5,6 +5,7 @@ views:
       and:
         - file.folder == "Obsidian/02 - REFERENCE NOTES"
     order: []
+    sort: []
     image: note.capa
-    cardSize: 220
+    cardSize: 240
     imageAspectRatio: 1.7
