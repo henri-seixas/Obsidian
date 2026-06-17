@@ -43,7 +43,7 @@ Cobertura vocabulário cotidiano estimada: ~75%
 ### Progresso por bloco
 
 ```
-Bloco 1 — Dias 01–10  [Fundamentos]      ████░░░░░  5/10
+Bloco 1 — Dias 01–10  [Fundamentos]      █████████ 10/10
 Bloco 2 — Dias 11–20  [Expansão]         ░░░░░░░░░  0/10
 Bloco 3 — Dias 21–30  [Aprofundamento]   ░░░░░░░░░  0/10
 Bloco 4 — Dias 31–40  [Fluência]         ░░░░░░░░░░░░░░░░░░░░  aguardando
@@ -93,8 +93,8 @@ Bloco 5 — Dias 41–50  [Avançado]         ░░░░░░░░░░░�
 - [x] **Dia 09** — Emoções e estados de espírito → [[FR-Dia-09]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [ ] **Dia 10** — Casa, objetos e rotina → [[FR-Dia-10]]
-  - [ ] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
+- [x] **Dia 10** — Casa, objetos e rotina → [[FR-Dia-10]]
+  - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
 
 > [!success] ✨ Marco — Fim do Bloco 1
