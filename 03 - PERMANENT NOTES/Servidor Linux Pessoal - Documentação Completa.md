@@ -2,7 +2,7 @@
 id: 3-202606070049
 tags:
   - nota-permanente-nao-literaria
-relacao: "[[3-202606070043 - Sistema TTS no Servidor - Guia Prático]]"
+relacao: "[[Sistema TTS no Servidor - Guia Prático]]"
 tema: "[[3 - I.T]]"
 ---
 # Hardware
@@ -109,7 +109,7 @@ sudo systemctl enable tailscaled
 
 # Sistema TTS
 
-[[3-202606070043 - Sistema TTS no Servidor - Guia Prático]]
+[[Sistema TTS no Servidor - Guia Prático]]
 
 ---
 

@@ -2,7 +2,7 @@
 id: 6-202606081601
 tags:
   - nota-permanente-nao-literaria
-relacao: "[[3-202606070043 - Sistema TTS no Servidor - Guia Prático]]"
+relacao: "[[Sistema TTS no Servidor - Guia Prático]]"
 tema: "[[6 - LINGUAS]]"
 ---
 ## Stack do projeto
@@ -66,28 +66,28 @@ Bloco 5 — Dias 41–50  [Avançado]         ░░░░░░░░░░░�
 ### 📦 Bloco 1 — Fundamentos (Dias 1–10)
 *Verbos essenciais, família, lugares, tempo, comida, trabalho, transporte, saúde, emoções, casa.*
 
-- [x] **Dia 01** — Verbos fundamentais (être, avoir, aller, faire…) → [[6-202606081628 - FR-Dia-01]]
+- [x] **Dia 01** — Verbos fundamentais (être, avoir, aller, faire…) → [[FR-Dia-01]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [x] **Dia 02** — Pessoas, família e corpo → [[6-202606090852 - FR-Dia-02]]
+- [x] **Dia 02** — Pessoas, família e corpo → [[FR-Dia-02]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [x] **Dia 03** — Lugares e espaços → [[6-202606101037 - FR-Dia-03]]
+- [x] **Dia 03** — Lugares e espaços → [[FR-Dia-03]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [x] **Dia 04** — Tempo, clima e natureza → [[6-202606111832 - FR-Dia-04]]
+- [x] **Dia 04** — Tempo, clima e natureza → [[FR-Dia-04]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [x] **Dia 05** — Alimentação e refeições → [[6-202606130018 - FR-Dia-05]]
+- [x] **Dia 05** — Alimentação e refeições → [[FR-Dia-05]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [x] **Dia 06** — Trabalho e estudos → [[6-202606132354 - FR-Dia-06]]
+- [x] **Dia 06** — Trabalho e estudos → [[FR-Dia-06]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [x] **Dia 07** — Transporte e deslocamento → [[6-202606142237 - FR-Dia-07]]
+- [x] **Dia 07** — Transporte e deslocamento → [[FR-Dia-07]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [x] **Dia 08** — Saúde e corpo → [[6-202606151356 - FR-Dia-08]]
+- [x] **Dia 08** — Saúde e corpo → [[FR-Dia-08]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
 - [ ] **Dia 09** — Emoções e estados de espírito → [[FR-Dia-09]]
@@ -405,5 +405,5 @@ Quando uma palavra surgir no mundo real (música, filme, conversa), **anotar ime
 
 ## 🔗 Notas relacionadas no Vault
 
-- [[3-202606070043 - Sistema TTS no Servidor - Guia Prático]]
-- [[3-202606070049 - Servidor Linux Pessoal - Documentação Completa]]
+- [[Sistema TTS no Servidor - Guia Prático]]
+- [[Servidor Linux Pessoal - Documentação Completa]]

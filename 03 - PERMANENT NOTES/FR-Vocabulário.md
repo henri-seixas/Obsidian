@@ -2,8 +2,8 @@
 id: 6-202606082247
 tags:
   - nota-permanente-nao-literaria
-referencias: "[[6-202606081628 - FR-Dia-01]]"
-relacao: "[[6-202606081601 - Francês]]"
+referencias: "[[FR-Dia-01]]"
+relacao: "[[Francês]]"
 tema: "[[6 - LINGUAS]]"
 ---
 Palavras aprendidas no dia 1:

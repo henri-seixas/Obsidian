@@ -1,15 +1,15 @@
 ---
-id: 6-202606142237
+id: 6-202606132354
 tags:
   - nota-linguas
 tema: "[[6 - LINGUAS]]"
-palavras: 50
+palavras: 80
 status: feito
 anki_importado: true
 audio_ouvido: true
 revisado: true
 ---
-# FR-Dia-07
+# FR-Dia-06
 
 ---
 
@@ -25,13 +25,11 @@ revisado: true
 
 ## 📝 Palavras que tive dificuldade
 
-| Palavra em FR | Tradução   |
-| ------------- | ---------- |
-| tramway       | bonde/VLT  |
-| vitesse       | velocidade |
-| chemin        | caminho    |
-| piéton        | pedestre   |
-| péage         | pedágio    |
+| Palavra em  FR | Tradução       |
+| -------------- | -------------- |
+| échec          | fracasso/falha |
+| chômage        | desemprego     |
+| retraite       | aposentadoria  |
 
 ---
 
@@ -39,16 +37,16 @@ revisado: true
 
 | Campo             | Valor      |
 | ----------------- | ---------- |
-| Data              | 14/06/2026 |
-| Hora de início    | 22h37      |
-| Tempo total       | 60 min     |
-| Cartões revisados | 70         |
+| Data              | 13/06/2026 |
+| Hora de início    | 23h54      |
+| Tempo total       | 30 min     |
+| Cartões revisados | 80         |
 | Sentimento geral  | 😊 Ótimo   |
 
 ---
 
 ## 🔗 Notas relacionadas
 
-- [[6-202606081601 - Francês]]
-- [[6-202606132354 - FR-Dia-06]]
-- [[6-202606082247 - FR-Vocabulário]]
+- [[Francês]]
+- [[FR-Dia-05]]
+- [[FR-Vocabulário]]

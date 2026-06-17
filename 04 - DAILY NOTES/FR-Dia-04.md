@@ -49,6 +49,6 @@ revisado: true
 
 ## 🔗 Notas relacionadas
 
-- [[6-202606081601 - Francês]]
-- [[6-202606101037 - FR-Dia-03]]
-- [[6-202606082247 - FR-Vocabulário]]
+- [[Francês]]
+- [[FR-Dia-03]]
+- [[FR-Vocabulário]]

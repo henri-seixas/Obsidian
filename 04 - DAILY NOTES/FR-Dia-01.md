@@ -48,5 +48,5 @@ revisado: true
 
 ## 🔗 Notas relacionadas
 
-- [[6-202606081601 - Francês]]
-- [[6-202606082247 - FR-Vocabulário]]
+- [[Francês]]
+- [[FR-Vocabulário]]

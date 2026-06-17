@@ -1,5 +1,5 @@
 ---
-id: 6-202606132354
+id: 6-202606130018
 tags:
   - nota-linguas
 tema: "[[6 - LINGUAS]]"
@@ -9,27 +9,26 @@ anki_importado: true
 audio_ouvido: true
 revisado: true
 ---
-# FR-Dia-06
+# FR-Dia-05
 
 ---
 
 ## ✅ Checklist
 
 - [x] Importar deck Anki
-- [x] Gerar / ouvir áudio TTS
+- [ ] Gerar / ouvir áudio TTS
 - [x] Primeira rodada de flashcards
 - [x] Revisar deck do dia anterior antes de começar
-- [x] Registrar palavras difíceis abaixo
+- [ ] Registrar palavras difíceis abaixo
 
 ---
 
 ## 📝 Palavras que tive dificuldade
 
-| Palavra em  FR | Tradução       |
-| -------------- | -------------- |
-| échec          | fracasso/falha |
-| chômage        | desemprego     |
-| retraite       | aposentadoria  |
+| Palavra em  FR | Tradução |
+| -------------- | -------- |
+|                |          |
+|                |          |
 
 ---
 
@@ -38,15 +37,15 @@ revisado: true
 | Campo             | Valor      |
 | ----------------- | ---------- |
 | Data              | 13/06/2026 |
-| Hora de início    | 23h54      |
-| Tempo total       | 30 min     |
-| Cartões revisados | 80         |
+| Hora de início    | __ h __    |
+| Tempo total       | 50 min     |
+| Cartões revisados | __         |
 | Sentimento geral  | 😊 Ótimo   |
 
 ---
 
 ## 🔗 Notas relacionadas
 
-- [[6-202606081601 - Francês]]
-- [[6-202606130018 - FR-Dia-05]]
-- [[6-202606082247 - FR-Vocabulário]]
+- [[Francês]]
+- [[FR-Dia-04]]
+- [[FR-Vocabulário]]

@@ -2,7 +2,7 @@
 id: 3-202606070043
 tags:
   - nota-permanente-nao-literaria
-relacao: "[[3-202606070049 - Servidor Linux Pessoal - Documentação Completa]]"
+relacao: "[[Servidor Linux Pessoal - Documentação Completa]]"
 tema: "[[3 - I.T]]"
 ---
 # O que é e como funciona

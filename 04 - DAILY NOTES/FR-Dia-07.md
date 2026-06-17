@@ -1,5 +1,5 @@
 ---
-id: 6-202606151356
+id: 6-202606142237
 tags:
   - nota-linguas
 tema: "[[6 - LINGUAS]]"
@@ -9,7 +9,7 @@ anki_importado: true
 audio_ouvido: true
 revisado: true
 ---
-# FR-Dia-08
+# FR-Dia-07
 
 ---
 
@@ -19,16 +19,19 @@ revisado: true
 - [x] Gerar / ouvir áudio TTS
 - [x] Primeira rodada de flashcards
 - [x] Revisar deck do dia anterior antes de começar
-- [ ] Registrar palavras difíceis abaixo
+- [x] Registrar palavras difíceis abaixo
 
 ---
 
 ## 📝 Palavras que tive dificuldade
 
-| Palavra em FR | Tradução |
-| ------------- | -------- |
-|               |          |
-|               |          |
+| Palavra em FR | Tradução   |
+| ------------- | ---------- |
+| tramway       | bonde/VLT  |
+| vitesse       | velocidade |
+| chemin        | caminho    |
+| piéton        | pedestre   |
+| péage         | pedágio    |
 
 ---
 
@@ -36,16 +39,16 @@ revisado: true
 
 | Campo             | Valor      |
 | ----------------- | ---------- |
-| Data              | 15/06/2026 |
-| Hora de início    | 13h        |
-| Tempo total       | 57 min     |
-| Cartões revisados | 101        |
+| Data              | 14/06/2026 |
+| Hora de início    | 22h37      |
+| Tempo total       | 60 min     |
+| Cartões revisados | 70         |
 | Sentimento geral  | 😊 Ótimo   |
 
 ---
 
 ## 🔗 Notas relacionadas
 
-- [[6-202606081601 - Francês]]
-- [[6-202606142237 - FR-Dia-07]]
-- [[6-202606082247 - FR-Vocabulário]]
+- [[Francês]]
+- [[FR-Dia-06]]
+- [[FR-Vocabulário]]

@@ -1,25 +1,25 @@
 ---
-id: 6-202606130018
+id: 6-202606090852
 tags:
   - nota-linguas
 tema: "[[6 - LINGUAS]]"
-palavras: 80
+palavras: 50
 status: feito
 anki_importado: true
 audio_ouvido: true
 revisado: true
 ---
-# FR-Dia-05
+# FR-Dia-02
 
 ---
 
 ## ✅ Checklist
 
 - [x] Importar deck Anki
-- [ ] Gerar / ouvir áudio TTS
+- [x] Gerar / ouvir áudio TTS
 - [x] Primeira rodada de flashcards
 - [x] Revisar deck do dia anterior antes de começar
-- [ ] Registrar palavras difíceis abaixo
+- [x] Registrar palavras difíceis abaixo
 
 ---
 
@@ -27,8 +27,13 @@ revisado: true
 
 | Palavra em  FR | Tradução |
 | -------------- | -------- |
-|                |          |
-|                |          |
+| sœur           | irmã     |
+| fiston         | filhinho |
+| tête           | cabeça   |
+| jambe          | perna    |
+| cœur           | coração  |
+| genou          | joelho   |
+| doigt          | dedo     |
 
 ---
 
@@ -36,16 +41,16 @@ revisado: true
 
 | Campo             | Valor      |
 | ----------------- | ---------- |
-| Data              | 13/06/2026 |
-| Hora de início    | __ h __    |
-| Tempo total       | 50 min     |
-| Cartões revisados | __         |
+| Data              | 09/06/2026 |
+| Hora de início    | 13h        |
+| Tempo total       | 63min      |
+| Cartões revisados | 56         |
 | Sentimento geral  | 😊 Ótimo   |
 
 ---
 
 ## 🔗 Notas relacionadas
 
-- [[6-202606081601 - Francês]]
-- [[6-202606111832 - FR-Dia-04]]
-- [[6-202606082247 - FR-Vocabulário]]
+- [[Francês]]
+- [[FR-Dia-01]]
+- [[FR-Vocabulário]]

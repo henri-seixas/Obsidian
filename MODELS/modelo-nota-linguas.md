@@ -46,6 +46,6 @@ revisado: false
 
 ## 🔗 Notas relacionadas
 
-- [[6-202606081601 - Francês]]
+- [[Francês]]
 - [[IDIOMA-Dia-{{número anterior}}]]
-- [[6-202606082247 - FR-Vocabulário]]
+- [[FR-Vocabulário]]
