@@ -25,10 +25,10 @@ revisado: false
 
 ## 📝 Palavras que tive dificuldade
 
-| Palavra em  {{idioma}} | Tradução |
-| ---------------------- | -------- |
-|                        |          |
-|                        |          |
+| Palavra em {{idioma}} | Tradução |
+| --------------------- | -------- |
+|                       |          |
+|                       |          |
 
 ---
 

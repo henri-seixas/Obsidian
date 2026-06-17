@@ -90,8 +90,8 @@ Bloco 5 — Dias 41–50  [Avançado]         ░░░░░░░░░░░�
 - [x] **Dia 08** — Saúde e corpo → [[FR-Dia-08]]
   - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
-- [ ] **Dia 09** — Emoções e estados de espírito → [[FR-Dia-09]]
-  - [ ] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
+- [x] **Dia 09** — Emoções e estados de espírito → [[FR-Dia-09]]
+  - [x] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte
   - Observação: ___
 - [ ] **Dia 10** — Casa, objetos e rotina → [[FR-Dia-10]]
   - [ ] Anki importado | [ ] Áudio ouvido | [ ] Revisado no dia seguinte

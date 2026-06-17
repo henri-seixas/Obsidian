@@ -11,7 +11,7 @@ status: 🟢​​​Lido
 # RELEVANCIA
 
 # NOTAS RELACIONADAS
-[[1-202606151141 - Escritores russos e Napoleão Bonaparte, como se relacionam e porque o odeiam]]
+
 # RESUMO
 
 # CITACOES E COMENTARIOS
